@@ -1,5 +1,5 @@
 #!/bin/bash
-#creadores Black - Dainer
+#creadores Carlos
 #Script que nos muestra un menu para elegir la operacion a realiza
 echo -e "\e[0;32m\033[3m" 
 
